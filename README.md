@@ -56,7 +56,7 @@ Runs on: http://127.0.0.1:8000
 
 You can view docs at: http://127.0.0.1:8000/docs
 
-## Frontend (Streamlit)
+Frontend (Streamlit)
 
 streamlit run frontend/app.py
 
@@ -68,4 +68,7 @@ Frontend: Streamlit (prototype)
 Database: SQLite (via SQLAlchemy)
 Email Integration: smtplib
 Resume Parsing: custom rule-based NLP logic
+
 Mobile UI: Figma(prototype)
+![SmartHire Summary UI](https://github.com/user-attachments/assets/5af34446-dbf7-4e1f-ac8a-76301fd972f8)
+
