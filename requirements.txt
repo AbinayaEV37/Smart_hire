@@ -1,0 +1,15 @@
+
+---
+
+### requirements.txt
+
+This includes all the dependencies used:
+
+```txt
+fastapi
+uvicorn
+pydantic
+streamlit
+requests
+sqlalchemy
+email-validator
